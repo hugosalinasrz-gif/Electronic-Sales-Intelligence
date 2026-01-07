@@ -4,6 +4,53 @@
 
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+<br>
+
+<details>
+  <summary><strong>🇪🇸 Versión en Español: Clic aquí para desplegar</strong></summary>
+
+  <br>
+
+  ## 1. Resumen del Proyecto
+  Este proyecto se centró en analizar un dataset de Kaggle de ventas de electrónicos (20,000 filas, 2023–2024) para construir un reporte estructurado y ofrecer insights accionables. El objetivo principal fue demostrar cómo las preguntas comunes de ventas pueden responderse mediante la preparación de datos (ETL) y la visualización estratégica.
+
+  ---
+
+  ## 2. Vista Previa del Dashboard
+
+  ![Retail Sales Dashboard Showcase](./assets/dashboard_showcase.png)
+
+  ---
+
+  ## 3. Insights Clave (Teaser)
+  El análisis completo (disponible en el reporte PDF) reveló tres insights críticos que van más allá de observaciones básicas para identificar riesgos y oportunidades estratégicas.
+
+  * **Insight 1:** Colapso Crítico de Ingresos en el Q4 (Cuarto Trimestre).
+  * **Insight 2:** Riesgo de Concentración de Ingresos en Smartphones.
+  * **Insight 3:** El Grupo de 50+ Años como el Cliente Principal (Core Customer).
+
+  ---
+
+ ## 4. 🚀 Reporte Completo y Archivo del Dashboard
+  Para ver el análisis profundo completo, la metodología y las recomendaciones estratégicas para cada insight, por favor lee el reporte completo del proyecto.
+
+  ➡️ **[Ver Reporte Completo del Proyecto (PDF)](./Hugo_Salinas_Excel_Sales_Analysis_ES.pdf)**
+
+  ➡️ **[Ver Archivo Interactivo de Excel](./Sales_Dashboard.xlsx)**
+
+  ---
+
+  ## 5. Herramientas Utilizadas
+  * **Microsoft Excel:**
+      * Power Query (Para ETL: limpieza de datos, transformación e ingeniería de características).
+      * Tablas Dinámicas (Para el análisis).
+      * Gráficos Dinámicos y Slicers (Para el dashboard interactivo).
+  * **Fuente de Datos:** Kaggle (20k filas).
+
+</details>
+
+<br>
+
 ---
 
 ## 1. Project Overview
