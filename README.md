@@ -31,7 +31,7 @@
 
   ---
 
- ## 4. 🚀 Reporte Completo y Archivo del Dashboard
+  ## 4. 🚀 Reporte Completo y Archivo del Dashboard
   Para ver el análisis profundo completo, la metodología y las recomendaciones estratégicas para cada insight, por favor lee el reporte completo del proyecto.
 
   ➡️ **[Ver Reporte Completo del Proyecto (PDF)](./Hugo_Salinas_Excel_Sales_Analysis_ES.pdf)**
