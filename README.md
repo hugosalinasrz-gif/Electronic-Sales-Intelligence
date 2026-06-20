@@ -8,7 +8,7 @@
 <br>
 
 <details>
-<summary><strong>🇪🇸 Versión en Español: Clic aquí para desplegar</strong></summary>
+<summary><strong>[ES] Versión en Español: Clic aquí para desplegar</strong></summary>
 
 <br>
 
